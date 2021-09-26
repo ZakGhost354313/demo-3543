@@ -4,3 +4,8 @@ header {
   border: #000000;
   text-align: center;
 }
+
+.menu {
+  display:none;
+  margin-left:20px;
+}
